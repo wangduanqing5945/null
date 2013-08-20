@@ -1,0 +1,4 @@
+null
+====
+
+myResource
